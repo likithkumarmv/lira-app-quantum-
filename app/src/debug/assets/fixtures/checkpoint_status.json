@@ -1,0 +1,9 @@
+{
+  "assignment_id": "ASN-102-R2",
+  "device_id": "LIRA-EDGE-01",
+  "state": "EXPECTED",
+  "rfid_state": "NOT_SCANNED",
+  "bay_present": false,
+  "last_event_at": null
+}
+

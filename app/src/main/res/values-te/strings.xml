@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LIRA Field</string>
+    <string name="tab_my_job">నా పని</string>
+    <string name="tab_exceptions">సమస్యలు</string>
+    <string name="tab_history">చరిత్ర</string>
+    <string name="tab_settings">సెట్టింగ్‌లు</string>
+    <string name="action_acknowledge">స్వీకరించండి</string>
+    <string name="action_cannot_comply">సాధ్యపడదు</string>
+    <string name="btn_see_new_job">కొత్త పని చూడండి</string>
+    <string name="btn_answer_here">మాట్లాడలేరా? ఇక్కడే సమాధానం ఇవ్వండి</string>
+    <string name="btn_yes_send">అవును, పంపండి</string>
+    <string name="btn_no_fix">లేదు, సరిచేయండి</string>
+    <string name="voice_speak_prompt">మీ భాషలో మాట్లాడండి: ఏమి జరిగింది మరియు ఎంత ఆలస్యమవుతుంది?</string>
+    <string name="voice_hold_to_talk">మాట్లాడటానికి నొక్కి పట్టుకోండి</string>
+    <string name="voice_release_to_send">పంపడానికి విడుదల చేయండి</string>
+    <string name="voice_footnote">మీ మాటలు కొత్త ప్రణాళికను సిద్ధం చేయడానికి సహాయపడతాయి. ఇవి కస్టమ్స్ లేదా సామగ్రిని విడుదల చేయవు.</string>
+    <string name="voice_review_title">మేము అర్థం చేసుకున్నది:</string>
+    <string name="voice_is_this_right">ఇది సరైనదేనా?</string>
+    <string name="plan_superseded_title">ప్రణాళిక మార్చబడింది</string>
+    <string name="plan_b_active">ప్లాన్ బి యాక్టివ్‌లో ఉంది</string>
+    <string name="plan_b_explanation">ఈ బ్యాకప్ మీ మేనేజర్ ద్వారా ముందే ఆమోదించబడింది.</string>
+    <string name="interchange_title">ఇంటర్‌చేంజ్ స్థితి</string>
+    <string name="bay_board_title">బే క్యూ</string>
+    <string name="station_online">స్టేషన్ ఆన్‌లైన్ ●</string>
+    <string name="station_offline">స్టేషన్ ఆఫ్‌లైన్</string>
+    <string name="why_action_title">ఈ చర్య ఎందుకు?</string>
+    <string name="settings_language">భాష</string>
+    <string name="settings_server">కంట్రోల్ టవర్</string>
+    <string name="pnr_act_by_prefix">బయలుదేరే సమయం</string>
+    <string name="pnr_port_deadline">పోర్టు గడువు %s</string>
+    <string name="pnr_explanation_template">%s తర్వాత మీరు ఎంత త్వరపడినా కంటైనర్ ఈరోజు పోర్టు నుండి బయలుదేరదు.</string>
+    <string name="pnr_imminent_tts">మీరు 10 నిమిషాల లోపు బయలుదేరాలి</string>
+    <string name="pnr_already_lost_title">డిస్పాచ్ తిరిగి ప్రణాళిక చేస్తోంది. కొత్త పని కోసం వేచి ఉండండి.</string>
+</resources>
+

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LIRA Field</string>
+    <string name="tab_my_job">माझे काम</string>
+    <string name="tab_exceptions">अडचणी</string>
+    <string name="tab_history">इतिहास</string>
+    <string name="tab_settings">सेटिंग्ज</string>
+    <string name="action_acknowledge">स्वीकारा</string>
+    <string name="action_cannot_comply">असमर्थ</string>
+    <string name="btn_see_new_job">नवीन काम पहा</string>
+    <string name="btn_answer_here">बोलू शकत नाही? येथे उत्तर द्या</string>
+    <string name="btn_yes_send">होय, पाठवा</string>
+    <string name="btn_no_fix">नाही, बदला</string>
+    <string name="voice_speak_prompt">तुमच्या भाषेत बोला: काय झाले आणि किती उशीर होईल?</string>
+    <string name="voice_hold_to_talk">बोलण्यासाठी दाबून ठेवा</string>
+    <string name="voice_release_to_send">पाठवण्यासाठी सोडा</string>
+    <string name="voice_footnote">तुमचे शब्द डिस्पॅचला नियोजन बदलण्यास मदत करतात. हे कस्टम किंवा उपकरण क्लिअर करत नाही.</string>
+    <string name="voice_review_title">आम्हाला समजले:</string>
+    <string name="voice_is_this_right">हे बरोबर आहे का?</string>
+    <string name="plan_superseded_title">डिस्पॅचने नवीन योजना दिली</string>
+    <string name="plan_b_active">प्लॅन बी सक्रिय</string>
+    <string name="plan_b_explanation">हा पर्याय आपल्या व्यवस्थापकाने आधीच मंजूर केला होता.</string>
+    <string name="interchange_title">इंटरचेंज स्थिती</string>
+    <string name="bay_board_title">बे रांग</string>
+    <string name="station_online">स्टेशन ऑनलाइन ●</string>
+    <string name="station_offline">स्टेशन ऑफलाइन</string>
+    <string name="why_action_title">ही कृती का?</string>
+    <string name="settings_language">भाषा</string>
+    <string name="settings_server">कंट्रोल टॉवर</string>
+    <string name="pnr_act_by_prefix">निघण्याची वेळ</string>
+    <string name="pnr_port_deadline">पोर्ट अंतिम मुदत %s</string>
+    <string name="pnr_explanation_template">%s नंतर कंटेनर आज बंदराबाहेर जाऊ शकत नाही, जरी तुम्ही घाई केली तरीही.</string>
+    <string name="pnr_imminent_tts">तुम्हाला 10 मिनिटांच्या आत निघावे लागेल</string>
+    <string name="pnr_already_lost_title">डिस्पॅच पुन्हा नियोजन करत आहे. नवीन कामाची प्रतीक्षा करा.</string>
+</resources>
+

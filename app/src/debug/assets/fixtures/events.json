@@ -1,0 +1,16 @@
+{
+  "items": [{
+    "event_id": "EVT-122",
+    "sequence": 122,
+    "type": "PLAN_REPLACED",
+    "assignment_id": "ASN-102-R2",
+    "created_at": "2026-10-28T15:32:00+05:30",
+    "payload": {
+      "previous_plan_id": "PLAN-R1",
+      "new_plan_id": "PLAN-R2",
+      "reason": "PHYSICAL_NO_SHOW"
+    }
+  }],
+  "next_sequence": 122
+}
+

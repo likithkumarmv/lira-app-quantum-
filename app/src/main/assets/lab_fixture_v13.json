@@ -1,0 +1,317 @@
+{
+  "server_time": "2026-10-29T14:30:00+05:30",
+  "assignments": [
+    {
+      "assignment_id": "ASG-C5-T09-3",
+      "plan_id": "PLAN-C5",
+      "plan_version": 3,
+      "status": "APPROVED_ACTIVE",
+      "pnr": "2026-10-29T16:00:00+05:30",
+      "act_by": "2026-10-29T14:00:00+05:30",
+      "pnr_status": "ON_TRACK",
+      "superseded_by": null,
+      "active_branch": null,
+      "driver_id": "DRV-102",
+      "truck_id": "T09",
+      "container": {
+        "container_no": "MSCU6619200",
+        "bl_no": "MEDUJN2610447",
+        "size_type": "40HC",
+        "gross_kg": 24800
+      },
+      "freight_case": {
+        "case_code": "C5",
+        "blocker_type": "TRUCK_BREAKDOWN",
+        "driver_status": "ACTION_REQUIRED",
+        "owner_role": "CARRIER_DISPATCH",
+        "action_due": "2026-10-29T14:20:00+05:30",
+        "hard_deadline": "2026-10-29T16:00:00+05:30"
+      },
+      "route": {
+        "from_label": "Kalamboli truck terminal",
+        "to_label": "JNPT pre-gate Bay 4",
+        "eta_minutes": 38,
+        "eta_source": "GOOGLE_ROUTES",
+        "eta_observed_at": "2026-10-29T13:51:00+05:30",
+        "label": "PREDICTED"
+      },
+      "bay": {
+        "site_id": "JNPT-BAY-04",
+        "queue_position": 1,
+        "window_start": "2026-10-29T14:30:00+05:30",
+        "window_end": "2026-10-29T15:00:00+05:30",
+        "chassis_id": "R-03",
+        "station_device_id": "EDGE-01",
+        "station_online": true
+      },
+      "instruction": {
+        "lang": "hi",
+        "text": "बे 4 पर 14:30 तक पहुँचें, चेसिस R-03 लें",
+        "text_en": "Reach Bay 4 by 14:30, pick chassis R-03",
+        "source": "SARVAM_TRANSLATE"
+      },
+      "interchange": {
+        "session_id": "IX-EDGE01-0042",
+        "state": "MATCH_PREVIEW",
+        "txn_id": null,
+        "eir_no": null
+      },
+      "cost_exposure": {
+        "currency": "INR",
+        "baseline": 32000,
+        "plan": 2650,
+        "avoidable": 29350,
+        "label": "MODELED",
+        "tariff_source_ids": ["TAR-JNPT-DPD-01"]
+      },
+      "provenance": {
+        "solver_runs": [
+          {
+            "run_id": "QOPT-8f2c",
+            "mode": "Q4_RECOVERY_EXCHANGE",
+            "engine": "QPIAI_OPT_HUBO",
+            "execution_mode": "local",
+            "job_id": null,
+            "validator": "PASS"
+          }
+        ],
+        "evidence_count": 4
+      },
+      "issued_at": "2026-10-29T13:52:10+05:30"
+    },
+    {
+      "assignment_id": "ASG-C3-T11-1",
+      "plan_id": "PLAN-C3",
+      "plan_version": 1,
+      "status": "APPROVED_ACTIVE",
+      "pnr": "2026-10-29T16:00:00+05:30",
+      "act_by": "2026-10-29T14:00:00+05:30",
+      "pnr_status": "ON_TRACK",
+      "superseded_by": null,
+      "active_branch": {
+        "branch_id": "B",
+        "activated_at": "2026-10-29T14:28:00+05:30",
+        "activated_by": "EDGE-01",
+        "trigger": "PRIMARY_TRUCK_NO_SHOW",
+        "pre_approved_by": "MGR-DISPATCH-03",
+        "pre_approved_at": "2026-10-29T13:00:00+05:30",
+        "provisional": true
+      },
+      "driver_id": "DRV-103",
+      "truck_id": "T11",
+      "container": {
+        "container_no": "MAEU8819208",
+        "bl_no": "MAEU9928172",
+        "size_type": "40HC",
+        "gross_kg": 28400
+      },
+      "freight_case": {
+        "case_code": "C3",
+        "blocker_type": "WEATHER_ETA_DRIFT",
+        "driver_status": "RESOURCE_ALLOCATED",
+        "owner_role": "CARRIER_DISPATCH",
+        "action_due": "2026-10-29T14:50:00+05:30",
+        "hard_deadline": "2026-10-29T17:00:00+05:30"
+      },
+      "route": {
+        "from_label": "Uran Phata Yard",
+        "to_label": "JNPT pre-gate Bay 4",
+        "eta_minutes": 22,
+        "eta_source": "GOOGLE_ROUTES",
+        "eta_observed_at": "2026-10-29T14:15:00+05:30",
+        "label": "PREDICTED"
+      },
+      "bay": {
+        "site_id": "JNPT-BAY-04",
+        "queue_position": 2,
+        "window_start": "2026-10-29T15:00:00+05:30",
+        "window_end": "2026-10-29T15:30:00+05:30",
+        "chassis_id": "R-02",
+        "station_device_id": "EDGE-01",
+        "station_online": true
+      },
+      "instruction": {
+        "lang": "hi",
+        "text": "योजना बी सक्रिय: बे 4 पर 15:00 तक पहुँचें, चेसिस R-02 लें",
+        "text_en": "Plan B active: Reach Bay 4 by 15:00, pick chassis R-02",
+        "source": "SARVAM_TRANSLATE"
+      },
+      "interchange": {
+        "session_id": "IX-EDGE01-0043",
+        "state": "NOT_STARTED",
+        "txn_id": null,
+        "eir_no": null
+      },
+      "cost_exposure": {
+        "currency": "INR",
+        "baseline": 18000,
+        "plan": 1200,
+        "avoidable": 16800,
+        "label": "MODELED",
+        "tariff_source_ids": ["TAR-JNPT-DPD-02"]
+      },
+      "provenance": {
+        "solver_runs": [
+          {
+            "run_id": "QOPT-8f2c",
+            "mode": "Q4_RECOVERY_EXCHANGE",
+            "engine": "QPIAI_OPT_HUBO",
+            "execution_mode": "local",
+            "job_id": null,
+            "validator": "PASS"
+          }
+        ],
+        "evidence_count": 3
+      },
+      "issued_at": "2026-10-29T14:28:15+05:30"
+    }
+  ],
+  "calls": [
+    {
+      "call_id": "CALL-2026-1049",
+      "provider": "BOLNA",
+      "execution_id": "BOLNA-8419",
+      "agent_id_masked": "LIRA-VOICE-HI",
+      "direction": "OUTBOUND",
+      "language": "hi",
+      "purpose": "Verify vehicle breakdown status and revised arrival",
+      "question": "नमस्ते, क्या आपका ट्रक T07 अभी भी ठीक हो रहा है?",
+      "status": "COMPLETED",
+      "from_number_masked": "+91 22 •••• 8421",
+      "started_at": "2026-10-29T14:10:00+05:30",
+      "ended_at": "2026-10-29T14:11:42+05:30",
+      "transcript_excerpt_original": "हाँ, क्लच वायर टूट गया है, लगभग 40 मिनट लगेंगे।",
+      "transcript_excerpt_en": "Yes, clutch wire broke, will take around 40 minutes.",
+      "extracted": {
+        "answer": "YES",
+        "eta_minutes": 40,
+        "reason_code": "TRUCK_BREAKDOWN",
+        "confidence": 0.94
+      },
+      "verification": "CORROBORATED"
+    }
+  ],
+  "bay_board": {
+    "site_id": "JNPT-BAY-04",
+    "generated_at": "2026-10-29T14:30:00+05:30",
+    "plan_version": 3,
+    "solver_run_id": "QOPT-8f2c",
+    "validator": "PASS",
+    "qaoa_shadow": "AGREES",
+    "rows": [
+      {
+        "seq": 1,
+        "truck_id": "T09",
+        "container_no": "MSCU6619200",
+        "chassis_id": "R-03",
+        "window_start": "14:30",
+        "window_end": "15:00",
+        "status": "NEXT"
+      },
+      {
+        "seq": 2,
+        "truck_id": "T11",
+        "container_no": "MAEU8819208",
+        "chassis_id": "R-02",
+        "window_start": "15:00",
+        "window_end": "15:30",
+        "status": "WAIT"
+      },
+      {
+        "seq": 3,
+        "truck_id": "T04",
+        "container_no": "CMAU7719201",
+        "chassis_id": "R-07",
+        "window_start": "15:30",
+        "window_end": "16:00",
+        "status": "WAIT"
+      }
+    ],
+    "next_cliff": {
+      "container_no": "MSCU6619200",
+      "kind": "DPD_FREE_TIME",
+      "at": "2026-10-29T16:00:00+05:30"
+    }
+  },
+  "interchanges": [
+    {
+      "session_id": "IX-EDGE01-0042",
+      "site_id": "JNPT-BAY-04",
+      "truck_id": "T09",
+      "truck_tag_ref_masked": "••B2C3",
+      "equipment_id": "R-03",
+      "state": "MATCH_PREVIEW",
+      "local_decision": "MATCH_PREVIEW",
+      "reason_code": "TAG_MATCH_UNVERIFIED_CUSTODY",
+      "challenge_code": "CHAL-447",
+      "txn_id": null,
+      "eir_no": null,
+      "eir_document_id": null,
+      "observed_at": "2026-10-29T14:32:10+05:30",
+      "committed_at": null,
+      "branch_id_applied": null
+    }
+  ],
+  "why": {
+    "assignment_id": "ASG-C5-T09-3",
+    "pnr_explanation": "After 14:00 the container cannot leave port today, even if you hurry.",
+    "evidence": [
+      {
+        "document_id": "DOC-BOLNA-8419",
+        "title": "Bolna Driver Voice Verification Call",
+        "source_type": "VOICE_CALL",
+        "authority_tier": "T4",
+        "quote": "\"Driver confirmed vehicle breakdown on NH-348, approx 40m delay.\"",
+        "quote_start": 0,
+        "quote_end": 64,
+        "observed_at": "2026-10-29T14:11:42+05:30"
+      },
+      {
+        "document_id": "DOC-EDGE-0042",
+        "title": "Station RFID Sensor Scan",
+        "source_type": "EIR",
+        "authority_tier": "T2",
+        "quote": "Tag 04A1B2C3 observed at Station EDGE-01 Bay 4.",
+        "quote_start": 0,
+        "quote_end": 47,
+        "observed_at": "2026-10-29T14:32:10+05:30"
+      },
+      {
+        "document_id": "DOC-DPD-TARIFF",
+        "title": "JNPT DPD Terminal Free Time Schedule",
+        "source_type": "PDF",
+        "authority_tier": "T1",
+        "quote": "Free dwell time expires strictly 48 hours from vessel discharge.",
+        "quote_start": 0,
+        "quote_end": 63,
+        "observed_at": "2026-10-29T08:00:00+05:30"
+      }
+    ],
+    "solver_runs": [
+      {
+        "run_id": "QOPT-8f2c",
+        "mode": "Q4_RECOVERY_EXCHANGE",
+        "engine": "QPIAI_OPT_HUBO",
+        "execution_mode": "local",
+        "job_id": null,
+        "validator": "PASS"
+      }
+    ],
+    "cost_breakdown": [
+      {
+        "component": "Demurrage Tier-1 Penalty",
+        "amount": 22000,
+        "label": "MODELED",
+        "source_id": "TAR-JNPT-DPD-01"
+      },
+      {
+        "component": "Detention & Chassis Surcharge",
+        "amount": 7350,
+        "label": "MODELED",
+        "source_id": "TAR-JNPT-DPD-01"
+      }
+    ],
+    "insufficient_evidence": false
+  }
+}
+

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LIRA Field</string>
+    <string name="tab_my_job">ನನ್ನ ಕೆಲಸ</string>
+    <string name="tab_exceptions">ಸಮಸ್ಯೆಗಳು</string>
+    <string name="tab_history">ಇತಿಹಾಸ</string>
+    <string name="tab_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="action_acknowledge">ಸ್ವೀಕರಿಸಿ</string>
+    <string name="action_cannot_comply">ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="btn_see_new_job">ಹೊಸ ಕೆಲಸ ನೋಡಿ</string>
+    <string name="btn_answer_here">ಮಾತನಾಡಲು ಸಾಧ್ಯವಿಲ್ಲವೇ? ಇಲ್ಲೇ ಉತ್ತರಿಸಿ</string>
+    <string name="btn_yes_send">ಹೌದು, ಕಳುಹಿಸಿ</string>
+    <string name="btn_no_fix">ಇಲ್ಲ, ಸರಿಪಡಿಸಿ</string>
+    <string name="voice_speak_prompt">ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಮಾತನಾಡಿ: ಏನಾಯಿತು ಮತ್ತು ಎಷ್ಟು ತಡವಾಗುತ್ತದೆ?</string>
+    <string name="voice_hold_to_talk">ಮಾತನಾಡಲು ಒತ್ತಿ ಹಿಡಿಯಿರಿ</string>
+    <string name="voice_release_to_send">ಕಳುಹಿಸಲು ಬಿಡಿ</string>
+    <string name="voice_footnote">ನಿಮ್ಮ ಮಾತುಗಳು ಹೊಸ ಯೋಜನೆ ರೂಪಿಸಲು ನೆರವಾಗುತ್ತವೆ. ಇವು ಕಸ್ಟಮ್ಸ್ ಅಥವಾ ಉಪಕರಣಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವುದಿಲ್ಲ.</string>
+    <string name="voice_review_title">ನಾವು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದು:</string>
+    <string name="voice_is_this_right">ಇದು ಸರಿಯೇ?</string>
+    <string name="plan_superseded_title">ಯೋಜನೆಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="plan_b_active">ಯೋಜನೆ ಬಿ ಸಕ್ರಿಯವಾಗಿದೆ</string>
+    <string name="plan_b_explanation">ಈ ಬ್ಯಾಕಪ್ ಅನ್ನು ನಿಮ್ಮ ಮ್ಯಾನೇಜರ್ ಮೊದಲೇ ಅನುಮೋದಿಸಿದ್ದಾರೆ.</string>
+    <string name="interchange_title">ಇಂಟರ್‌ಚೇಂಜ್ ಸ್ಥಿತಿ</string>
+    <string name="bay_board_title">ಬೇ ಸರದಿ</string>
+    <string name="station_online">ಸ್ಟೇಷನ್ ಆನ್‌ಲೈನ್ ●</string>
+    <string name="station_offline">ಸ್ಟೇಷನ್ ಆಫ್‌ಲೈನ್</string>
+    <string name="why_action_title">ಈ ಕ್ರಮ ಏಕೆ?</string>
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="settings_server">ಕಂಟ್ರೋಲ್ ಟವರ್</string>
+    <string name="pnr_act_by_prefix">ಹೊರಡುವ ಸಮಯ</string>
+    <string name="pnr_port_deadline">ಬಂದರು ಅಂತಿಮ ದಿನಾಂಕ %s</string>
+    <string name="pnr_explanation_template">%s ನಂತರ ನೀವು ಆತುರಪಟ್ಟರೂ ಕಂಟೇನರ್ ಇಂದು ಬಂದರಿನಿಂದ ನಿರ್ಗಮಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="pnr_imminent_tts">ನೀವು 10 ನಿಮಿಷಗಳ ಒಳಗೆ ಹೊರಡಬೇಕು</string>
+    <string name="pnr_already_lost_title">ಡಿಸ್ಪ್ಯಾಚ್ ಮರು ಯೋಜಿಸುತ್ತಿದೆ. ಹೊಸ ಕೆಲಸಕ್ಕಾಗಿ ಕಾಯಿರಿ.</string>
+</resources>
+

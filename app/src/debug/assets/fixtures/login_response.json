@@ -1,0 +1,9 @@
+{
+  "access_token": "EXAMPLE_SESSION_TOKEN",
+  "token_type": "bearer",
+  "expires_in": 3600,
+  "role": "DRIVER",
+  "display_name": "Driver T07",
+  "truck_id": "T07"
+}
+

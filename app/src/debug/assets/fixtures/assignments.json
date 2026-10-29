@@ -1,0 +1,24 @@
+{
+  "items": [{
+    "assignment_id": "ASN-102-R2",
+    "plan_id": "PLAN-R2",
+    "container_id": "C102",
+    "truck_id": "T07",
+    "slot_id": "S1600",
+    "slot_start": "2026-10-28T16:00:00+05:30",
+    "slot_end": "2026-10-28T16:30:00+05:30",
+    "checkpoint_id": "LIRA-EDGE-01",
+    "status": "APPROVED",
+    "driver_ack_state": "PENDING",
+    "physical_state": "EXPECTED",
+    "reason_code": "T04_ETA_CONFLICT",
+    "reason_text": "Original driver cannot reach the confirmed slot",
+    "customs_release": "CONFIRMED",
+    "deadline": "2026-10-28T18:30:00+05:30",
+    "projected_avoidable_cost_inr": 12000,
+    "evidence_ids": ["EV-DOC-102", "EV-CALL-04"],
+    "updated_at": "2026-10-28T15:30:00+05:30"
+  }],
+  "updated_at": "2026-10-28T15:30:00+05:30"
+}
+

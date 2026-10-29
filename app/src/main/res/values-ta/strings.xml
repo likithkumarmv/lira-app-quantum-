@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LIRA Field</string>
+    <string name="tab_my_job">என் பணி</string>
+    <string name="tab_exceptions">சிக்கல்கள்</string>
+    <string name="tab_history">வரலாறு</string>
+    <string name="tab_settings">அமைப்புகள்</string>
+    <string name="action_acknowledge">ஏற்றுக்கொள்</string>
+    <string name="action_cannot_comply">இயலாது</string>
+    <string name="btn_see_new_job">புதிய பணியைக் காண்க</string>
+    <string name="btn_answer_here">பேச இயலவில்லையா? இங்கே பதிலளிக்கவும்</string>
+    <string name="btn_yes_send">ஆம், அனுப்பு</string>
+    <string name="btn_no_fix">இல்லை, மாற்று</string>
+    <string name="voice_speak_prompt">உங்கள் மொழியில் பேசுங்கள்: என்ன நடந்தது, எவ்வளவு தாமதமாகும்?</string>
+    <string name="voice_hold_to_talk">பேச அழுத்தவும்</string>
+    <string name="voice_release_to_send">அனுப்ப விடுவிக்கவும்</string>
+    <string name="voice_footnote">உங்கள் குரல் பதிவுகள் புதிய திட்டமிடலுக்கு மட்டுமே பயன்படும். இது சுங்க அனுமதியோ உபகரண விடுவிப்போ அளிக்காது.</string>
+    <string name="voice_review_title">நாங்கள் புரிந்துகொண்டது:</string>
+    <string name="voice_is_this_right">இது சரியானதா?</string>
+    <string name="plan_superseded_title">புதிய திட்டம் மாற்றப்பட்டது</string>
+    <string name="plan_b_active">திட்டம் பி செயலில் உள்ளது</string>
+    <string name="plan_b_explanation">இந்த மாற்றுத் திட்டம் மேலாளரால் முன்கூட்டியே அங்கீகரிக்கப்பட்டது.</string>
+    <string name="interchange_title">பரிமாற்ற நிலை</string>
+    <string name="bay_board_title">பே வரிசை</string>
+    <string name="station_online">நிலையம் இணைப்பில் ●</string>
+    <string name="station_offline">நிலையம் ஆஃப்லைன்</string>
+    <string name="why_action_title">இந்த நடவடிக்கை ஏன்?</string>
+    <string name="settings_language">மொழி</string>
+    <string name="settings_server">கண்ட்ரோல் டவர்</string>
+    <string name="pnr_act_by_prefix">புறப்படும் நேரம்</string>
+    <string name="pnr_port_deadline">துறைமுக காலக்கெடு %s</string>
+    <string name="pnr_explanation_template">%s க்குப் பிறகு, நீங்கள் விரைந்தாலும் கொள்கலன் இன்று துறைமுகத்திலிருந்து வெளியேற முடியாது.</string>
+    <string name="pnr_imminent_tts">நீங்கள் 10 நிமிடங்களுக்குள் புறப்பட வேண்டும்</string>
+    <string name="pnr_already_lost_title">டிஸ்பேட்ச் மீண்டும் திட்டமிடுகிறது. புதிய பணிக்காக காத்திருக்கவும்.</string>
+</resources>
+

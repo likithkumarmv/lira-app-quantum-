@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LIRA Field</string>
+    <string name="tab_my_job">My Job</string>
+    <string name="tab_exceptions">Exceptions</string>
+    <string name="tab_history">History</string>
+    <string name="tab_settings">Settings</string>
+    <string name="action_acknowledge">ACKNOWLEDGE</string>
+    <string name="action_cannot_comply">CANNOT COMPLY</string>
+    <string name="btn_see_new_job">SEE NEW JOB</string>
+    <string name="btn_answer_here">Can\'t talk? Answer here instead</string>
+    <string name="btn_yes_send">Yes, send</string>
+    <string name="btn_no_fix">No, fix it</string>
+    <string name="voice_speak_prompt">Speak in your language: what happened and how late will you be?</string>
+    <string name="voice_hold_to_talk">Hold to talk</string>
+    <string name="voice_release_to_send">Release to send</string>
+    <string name="voice_footnote">Your words help dispatch re-plan. They do not clear customs or release equipment.</string>
+    <string name="voice_review_title">We understood:</string>
+    <string name="voice_is_this_right">Is this right?</string>
+    <string name="plan_superseded_title">Plan replaced by dispatch</string>
+    <string name="plan_b_active">PLAN B ACTIVE</string>
+    <string name="plan_b_explanation">This backup was approved in advance by your manager.</string>
+    <string name="interchange_title">INTERCHANGE STATUS</string>
+    <string name="bay_board_title">BAY QUEUE</string>
+    <string name="station_online">Station online ●</string>
+    <string name="station_offline">Station offline</string>
+    <string name="why_action_title">Why this action?</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_server">Control Tower</string>
+    <string name="pnr_act_by_prefix">ACT BY</string>
+    <string name="pnr_port_deadline">Port deadline %s</string>
+    <string name="pnr_explanation_template">After %s the container cannot leave port today, even if you hurry.</string>
+    <string name="pnr_imminent_tts">You must leave within 10 minutes</string>
+    <string name="pnr_already_lost_title">Dispatch is re-planning. Wait for the new job.</string>
+</resources>

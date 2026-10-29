@@ -1,0 +1,15 @@
+{
+  "items": [{
+    "event_id": "EXT-01",
+    "type": "HEAVY_RAIN",
+    "trust_state": "FORECAST_RISK",
+    "severity": "HIGH",
+    "title": "Heavy rain may delay the approach road",
+    "source_label": "Weather feed / DEMO",
+    "affected_trucks": ["T07"],
+    "starts_at": "2026-10-28T15:00:00+05:30",
+    "ends_at": "2026-10-28T19:00:00+05:30",
+    "updated_at": "2026-10-28T14:45:00+05:30"
+  }]
+}
+
